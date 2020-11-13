@@ -369,8 +369,6 @@ Type `event addEvent /n arduino course /d 2020-12-30 /t 08-00` into the terminal
 
 ![](userGuidePic/eventAdd1.png)
 
-<div style="page-break-after: always;"></div>
-
 The result will be a message that the event has been successfully added as shown in the figure below.
 
 ![EventAddCommand](userGuidePic/eventAddCommand.PNG)
